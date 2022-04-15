@@ -1,1 +1,1 @@
-To run the code, you need install all required dependencies. (npm install - node.js)
+Created using React. To run the code, you need install all required dependencies. (npm install - node.js)
